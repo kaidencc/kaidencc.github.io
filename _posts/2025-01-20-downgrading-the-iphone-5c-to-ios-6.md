@@ -2,6 +2,7 @@
 layout: post
 title: Downgrading the iPhone 5C to iOS 6
 date: 2025-02-04 07:30 +1300
+description: A guide for tether downgrading the iPhone 5C to iOS 6
 ---
 ## Disclaimer
 I am **not** responsible for any damage to your devices caused by following this guide. Please proceed with caution and at your own risk.<br>
