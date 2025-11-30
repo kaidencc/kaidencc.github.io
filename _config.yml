@@ -23,23 +23,23 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://kaiden-ac.github.io"
+url: "https://kaidencc.github.io"
 
 github:
-  username: Kaiden-AC # change to your GitHub username
+  username: kaidencc # change to your GitHub username
 
 twitter:
-  username: KaidenAC # change to your Twitter username
+  username: kaiden_cc # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: KaidenAC
+  name: kaiden.cc
   email: contact@kaiden.cc # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/KaidenAC # change to your Twitter homepage
-    - https://github.com/Kaiden-AC # change to your GitHub homepage
+    - https://twitter.com/kaiden_cc # change to your Twitter homepage
+    - https://github.com/kaidencc # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +98,7 @@ theme_mode: dark # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://pbs.twimg.com/profile_images/1876064284532432897/VCWfVdeU_400x400.jpg
+avatar: https://pbs.twimg.com/profile_images/1984696533892444160/_W9MZm4O_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
